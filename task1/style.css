@@ -71,19 +71,16 @@ footer {
     width: 100%;
     margin: 50px auto;
     display: block;
-    position: relative;
   }
   
   .step-box {
     width: 90%;
     margin: 20px auto;
-    position: relative;
   }
   
   .step-box:last-child {
     margin: 20px auto;
   }
   
-
   
 }
